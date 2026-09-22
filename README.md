@@ -16,7 +16,7 @@ Script de migração em massa de identidades (Active Directory + Google Workspac
 Aplicação desktop que automatiza o preenchimento de planilhas de controle de ativos a partir de checklists de retrofit em campo. Reduziu o tempo de processamento de um ciclo de ~800 horas para menos de 15 minutos.
 
 
-###[`powershell-dns-sync-cloudflare/`](powershell-dns-sync-cloudflare/)
+[`powershell-dns-sync-cloudflare/`](powershell-dns-sync-cloudflare/)
 
 Conjunto de scripts que automatiza a sincronização de registros DNS (A, AAAA, CNAME) entre a nuvem pública (Cloudflare) e a infraestrutura interna (Windows Server). Conta com sistema integrado de backup/rollback em CSV, validação pós-sincronismo, dashboard HTML auto-atualizável e envio de alertas de auditoria via Slack.
 
